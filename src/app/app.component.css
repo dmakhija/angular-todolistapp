@@ -1,0 +1,29 @@
+.hover-cursor{
+    cursor:pointer;
+}
+.pull-right{
+    float:right;
+}
+.pull-left{
+    float:left;
+}
+.text-success{
+    color: green;
+}
+.text-info{
+    color:blue;
+}
+.btn-info{
+    color:#b717b8;
+}
+.text-danger
+{
+    color:red;
+}
+.chk-margin{
+    margin-right:10px;
+}
+.txt-checked
+{
+    text-decoration: line-through;
+}
